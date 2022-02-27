@@ -45,7 +45,7 @@ msgstr ""
 msgid "Balance"
 msgstr ""
 
-#: components/NavMenu/index.tsx:136
+#: components/NavMenu/index.tsx:138
 msgid "Bond Carbon"
 msgstr ""
 
@@ -53,20 +53,16 @@ msgstr ""
 msgid "Bond Carbon."
 msgstr ""
 
-#: components/NavMenu/index.tsx:120
+#: components/NavMenu/index.tsx:122
 msgid "Buy KLIMA"
 msgstr ""
 
-#: components/NavMenu/index.tsx:156
+#: components/NavMenu/index.tsx:158
 msgid "COMING SOON"
 msgstr ""
 
 #: components/ChangeLanguageButton/index.tsx:64
 msgid "Change language"
-msgstr ""
-
-#: components/views/Info/index.tsx:105
-msgid "Common app-related questions and useful links. For comprehensive reading on KlimaDAO, see our <0>official documentation</0>."
 msgstr ""
 
 #: components/views/Bond/index.tsx:303
@@ -98,15 +94,11 @@ msgstr ""
 msgid "Index adjusted"
 msgstr ""
 
-#: components/NavMenu/index.tsx:152
+#: components/NavMenu/index.tsx:154
 msgid "Info"
 msgstr ""
 
-#: components/views/Info/index.tsx:102
-msgid "Info & FAQ"
-msgstr ""
-
-#: components/NavMenu/index.tsx:170
+#: components/NavMenu/index.tsx:172
 msgid "JUST FOR YOU"
 msgstr ""
 
@@ -114,7 +106,7 @@ msgstr ""
 msgid "Not Redeemable"
 msgstr ""
 
-#: components/NavMenu/index.tsx:164
+#: components/NavMenu/index.tsx:166
 msgid "Offset"
 msgstr ""
 
@@ -138,7 +130,7 @@ msgstr ""
 msgid "Some find this useful for accounting purposes, but the yield is exactly the same. Wrap and unwrap values are calculated based on the current index."
 msgstr ""
 
-#: components/NavMenu/index.tsx:128
+#: components/NavMenu/index.tsx:130
 #: components/views/Stake/index.tsx:202
 msgid "Stake KLIMA"
 msgstr ""
@@ -151,7 +143,7 @@ msgstr ""
 msgid "Total KLIMA you have redeemed so far."
 msgstr ""
 
-#: components/NavMenu/index.tsx:144
+#: components/NavMenu/index.tsx:146
 msgid "Wrap sKLIMA"
 msgstr ""
 
@@ -163,7 +155,7 @@ msgstr ""
 msgid "You Will Get"
 msgstr ""
 
-#: components/NavMenu/index.tsx:107
+#: components/NavMenu/index.tsx:108
 msgid "Your Wallet Address"
 msgstr ""
 
@@ -302,11 +294,47 @@ msgstr ""
 msgid "choose_bond.treasury_balance"
 msgstr ""
 
+#: components/views/Info/index.tsx:122
+msgid "info.app_not_loading.1_open_metamaks"
+msgstr ""
+
+#: components/views/Info/index.tsx:123
+msgid "info.app_not_loading.2_go_to_settings"
+msgstr ""
+
+#: components/views/Info/index.tsx:124
+msgid "info.app_not_loading.3_return_to_dapp"
+msgstr ""
+
+#: components/views/Info/index.tsx:120
+msgid "info.app_not_loading.if_app_says_loading"
+msgstr ""
+
+#: components/views/Info/index.tsx:126
+msgid "info.app_not_loading.metamask_should_prompt"
+msgstr ""
+
+#: components/views/Info/index.tsx:117
+msgid "info.app_not_loading.title"
+msgstr ""
+
+#: components/views/Info/index.tsx:105
+msgid "info.caption"
+msgstr ""
+
+#: components/views/Info/index.tsx:135
+msgid "info.official_contract_addresses.title"
+msgstr ""
+
+#: components/views/Info/index.tsx:102
+msgid "info.title"
+msgstr ""
+
 #: components/views/Bond/index.tsx:418
 msgid "nav.back"
 msgstr ""
 
-#: components/NavMenu/index.tsx:177
+#: components/NavMenu/index.tsx:179
 msgid "pKLIMA"
 msgstr ""
 
